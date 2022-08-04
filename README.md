@@ -1,2 +1,1 @@
-# javascipt-project-two
-javascript for biginer level
+# Proj_debtors_34

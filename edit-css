@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  'Open Sans'sans-serif;
+    box-sizing: border-box;
+}
+
+.main-container {
+    position: relative;
+    width: 1728px;
+    height: 1117px;
+    background: #ffff;
+}
+.names{
+    cursor: pointer;
+}
